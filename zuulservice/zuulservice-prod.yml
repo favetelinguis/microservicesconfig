@@ -1,0 +1,6 @@
+zuul.prefix:  /api
+zuul.sensitiveHeaders: Cookie,Set-Cookie
+zuul.debug.request: true
+#hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 2
+#service1.ribbon.ReadTimeout: 2
+signing.key: "345345fsdfsf5345"
